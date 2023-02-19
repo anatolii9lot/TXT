@@ -1,2 +1,19 @@
-bug 1
-bug 2
+Environment and testing preconditions: 
+Device: Laptop, PC
+Browser: Google Chrome 109.0.5414.120
+Objective: Capital.com, main page. 
+Preconditions: Unregistered user. Localization: EN
+Type of testing: GUI"
+# 			1								
+Severity		Minor
+Title			Font defect 
+Inputs			"100%" scales
+			"110%" scales
+			screen resolution 1920х1080
+Steps			1. Open the main page capital.com
+			2. Try scales 100% and 110%"
+Expected result		All fonts used on the main page display correctly without any defects.
+Actual result		The "14px gilroy full" font used on the main page renders the "e" character incorrectly. When displayed on the "100%" and "110%" scales, part of the character floats and makes the symbol "e" character can be perceived as "o".
+Comment			In other languages, the problem of displaying the symbol "e" font "14px gilroy full" is similar	
+Priority 		Low
+Attachment
