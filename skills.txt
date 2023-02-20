@@ -1,2 +1,20 @@
 Soft skills
+1. Creativity
+2. Sociability
+3. Ability to correctly formulate questions
+4. Ability to prioritize
+5. Ability to speak in simple language
+6. Flexibility
+7. Discipline
+8. Curiosity and passion
 Hars skills
+1. Understanding the goals and areas of testing
+2. Knowledge of test analysis and test design techniques
+3. Maintaining test documentation
+4. Working with bug tracking systems
+5. Working with version control systems
+6. Basic knowledge of client-server architecture
+7. Basic knowledge of programming languages
+8. Working with API and traffic sniffers
+9. Working with DevTool
+10. Technical English
